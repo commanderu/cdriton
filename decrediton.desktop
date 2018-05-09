@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=commanderuiton
+Comment=commanderuiton the commanderu wallet
+Exec=commanderuiton %U
+Terminal=false
+Type=Application
+Icon=commanderu
+MimeType=x-scheme-handler/commanderu;
+Categories=Office;Finance;
