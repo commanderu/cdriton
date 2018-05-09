@@ -1,0 +1,27 @@
+{
+  "name": "commanderuiton",
+  "productName": "commanderuiton",
+  "version": "1.2.1",
+  "description": "Cross-platform commanderu gui based on Electron and React",
+  "main": "./main.js",
+  "author": {
+    "name": "commanderu Team",
+    "email": "info@commanderu.org",
+    "url": "https://github.com/commanderu"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "blake-hash": "^1.1.0",
+    "bs58check": "^2.1.1",
+    "electron-store": "1.2.0",
+    "fs-extra": "^5.0.0",
+    "grpc": "1.10.0",
+    "minimist": "^1.2.0"
+  },
+  "resolutions": {
+    "conf": "1.1.2"
+  },
+  "optionalDependencies": {
+    "win32ipc": "./modules/win32ipc"
+  }
+}
